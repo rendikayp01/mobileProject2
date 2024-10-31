@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "131237070020",
+    "project_id": "latihan-22312079",
+    "storage_bucket": "latihan-22312079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131237070020:android:b39549d289a39b2c95f591",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jGrO9S3B5JqJfkVH1GD3_biM2nHxdBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131237070020:android:511260ecb0be1cf195f591",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jGrO9S3B5JqJfkVH1GD3_biM2nHxdBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131237070020:android:ef267a17db4bedde95f591",
+        "android_client_info": {
+          "package_name": "com.rendika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jGrO9S3B5JqJfkVH1GD3_biM2nHxdBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
