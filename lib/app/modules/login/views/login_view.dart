@@ -31,7 +31,7 @@ class LoginView extends GetView<LoginController> {
                 children: [
                   // Logo or Header image
                   Image.network(
-                    "https://static-00.iconduck.com/assets.00/android-plain-wordmark-icon-256x256-ppoejbtc.png",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UNIVERSITASTEKNOKRAT.png/1200px-UNIVERSITASTEKNOKRAT.png",
                     height: 100,
                   ),
                   const SizedBox(height: 20),
@@ -161,6 +161,13 @@ class LoginView extends GetView<LoginController> {
                       ),
                     ],
                   ),
+                  ElevatedButton(onPressed: () => cAuth.LoginGoogle,
+                   child: Text("login menggunakan google"),
+                   style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.red,
+                    foregroundColor: Colors.white,
+                   ),
+                   )
                 ],
               ),
             ),
